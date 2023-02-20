@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form_Fin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Juego.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_MenuInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
